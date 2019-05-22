@@ -1,4 +1,5 @@
 *Introducción:*
+
 Con las posibilidades que la nube entrega a personas y organizaciones de todos tipos en el mundo, la generación de los datos ha aumentado de forma exponencial. AWS te permite utiilzar bajo demanda el almacenamiento necesario para recolectar estos datos utilizando servicios como Amazon EBS (https://aws.amazon.com/es/ebs/) (volúmenes de almacenamiento), Amazon S3 (https://aws.amazon.com/es/s3/) (Almacenamiento tipo objeto), Amazon RDS (https://aws.amazon.com/es/rds/) (Bases de datos estructuradas) Amazon DynamoDB (https://aws.amazon.com/es/dynamodb/) (NoSQL Llave-Valor), Amazon Elastic Filesystem (https://aws.amazon.com/es/efs/) (EFS, Sistema administrado de archivos para linux), Amazon FSx para windows (https://aws.amazon.com/es/fsx/) (Sistema administrado de archivos para windows), entre muchos otros.
 
 Aunque cada uno de estos servicios cuenta con APIs con las que se pueden programar y automatizar copias de seguridad, nuestros clientes nos solicitaban un servicio llave en mano que les permitiera cumplir con sus estándares empresariales de respaldo de información.
